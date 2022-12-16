@@ -1,7 +1,7 @@
 ![IMG_20220522_105448_1](https://user-images.githubusercontent.com/98092595/208063928-0f616010-f63c-4e8a-9bac-1e8a5d3d7e74.jpg)
 
 # Hi, there !! 
-My name is Kartika Jatilaksono and this is my github.
+My name is Kartika and this is my github.
 
 ## Resource on Github !!
 you can check my project at github about Data Analytics and html.
