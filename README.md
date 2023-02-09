@@ -7,7 +7,7 @@ My name is Kartika and this is my github.
 you can check my project at github about Data Analytics and html.
 - [dataanalytics](https://github.com/MrNoTaiL/Exercise---Chinook-database) - [mini course] Data analytics and sqlite3 syntax
 - [dataanalytics](https://github.com/MrNoTaiL/Report-Tanaman-Padi-di-Pulau-Sumatera) - Data Produksi Padi di Sumatera Tahun 1993-2020
-- [dataanalytics](https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting/blob/main/README.md) - Store sales (Time series)
+- [dataanalytics](https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting/blob/main/README.md) - Store sales (Time series) 2013 - 2017
 - [webdesign](https://github.com/MrNoTaiL/simple1-webdesign) - simple design website
 
 
