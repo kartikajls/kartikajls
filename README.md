@@ -3,7 +3,7 @@
 # Hi, there !! 
 My name is Kartika and this is my github. This Github is created to support my portfolio. I hope you can see my project and take a banefit.
 
-<p> 📧 My Email: kartikajls@gmail.com</p>
+<p> 📧 My Email: kartikajls.id@gmail.com</p>
 
 ## Resource on Github !!
 you can check my project at github about Data Analytics and html.
