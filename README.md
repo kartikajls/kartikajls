@@ -11,7 +11,7 @@ you can check my project at github about Data Analytics and html.
 - [dataanalytics](https://github.com/MrNoTaiL/Exercise---Chinook-database) - [mini course] Data analytics and sqlite3 syntax
 - [dataanalytics](https://github.com/MrNoTaiL/Report-Tanaman-Padi-di-Pulau-Sumatera) - Data Produksi Padi di Sumatera Tahun 1993-2020
 - [dataanalytics](https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting) - Store sales (Time series) 2013 - 2017
-
+- [dataanalytics](https://github.com/MrNoTaiL/SQL-mini-course) - SQL mini course
 
 
 
