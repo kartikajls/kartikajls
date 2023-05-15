@@ -1,4 +1,4 @@
-![IMG](https://www.bu.edu/met/files/2020/09/gcda-hero-1200x500.jpg)
+![IMG]()
 
 # Hi, there !! 
 My name is Kartika and this is my github. This Github is created to support my portfolio. I hope you can see my project and take a banefit.
