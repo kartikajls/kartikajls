@@ -1,4 +1,4 @@
-![IMG](https://github.com/MrNoTaiL/SQL-mini-course/assets/98092595/dbaafae0-64dc-4e30-8052-1058a16e260e)
+![IMG](https://github.com/MrNoTaiL/SQL-mini-course/assets/98092595/f4cb02b9-3634-4913-a21c-af0fcd00827e)
 
 # Hi, there !! 
 My name is Kartika and this is my github. This Github is created to support my portfolio. I hope you can see my project and take a banefit.
