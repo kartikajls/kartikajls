@@ -13,6 +13,7 @@ you can check my project at github about Data Analytics and html.
 - [dataanalytics](https://github.com/kartikajls/Store-Sales-Time-Series-Forecasting) - Store sales (Time series) 2013 - 2017
 - [dataanalytics](https://github.com/kartikajls/SQL-mini-course) - SQL mini course
 - [dataanalytics](https://github.com/kartikajls/InstagramAnalyze) - Instagram Database Analyze
+- [dataanalytics](https://github.com/kartikajls/Analisis-Sentimen) - Analisis Sentimen dengan menggunakan metode Naive Bayes
 
 
 
