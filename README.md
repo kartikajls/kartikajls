@@ -1,7 +1,7 @@
 ![IMG](https://github.com/kartikajls/SQL-mini-course/assets/98092595/f4cb02b9-3634-4913-a21c-af0fcd00827e)
 
 # Hi, there !! 
-My name is Kartika and this is my github. This Github is create to support my portfolio. I hope you can see my project and take a banefit.
+My name is Jati and this is my github. This Github is create to support my portfolio. I hope you can see my project and take a banefit.
 
 <p> 📧 My Email: kartikajls.id@gmail.com</p>
 
