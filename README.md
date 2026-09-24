@@ -11,6 +11,7 @@ Golang
 - [backend](https://github.com/kartikajls/ecomerce.git) - Backend Dev. Simple e-comerce
 - [backend](https://github.com/kartikajls/dasar-pemrograman-golang.git) - A simple Guide Tour System
 - [mysql](https://github.com/kartikajls/mysql-basic-learning.git) - Learning Database Mysql
+- [mini-logic](https://github.com/kartikajls/mini-logic.git) - Learning golang for logic 
 
 Html
 - [webdesign](https://github.com/kartikajls/interface-website) - Exercise Project Design Website
